@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['main.py', 'utils.py', 'layers.py', 'dataloader.py', 'visualizer\\vector3D.py', 'visualizer\\vector3D - old.py', 'visualizer\\__init__.py', 'visualizer\\heatmap.py', '..\\..\\..\\..\\anaconda3\\envs\\pytorch\\lib\\site-packages\\torch\\optim\\_functional.py', 'GPO_MIL.py', 'result\\results.txt']
+
+[main]
+version = 0.2.0
+recent_files = []
+
